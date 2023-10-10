@@ -2,7 +2,18 @@
 
 
 
-## v2.0.5 (2023-10-09)
+## v2.0.6 (2023-10-09)
+
+### Fix
+
+* fix(version): add version variable ([`5e2d7d4`](https://github.com/ELC/SemanticReleasePoC/commit/5e2d7d49b57d2f1fcbb1b7d40b286e841b37e666))
+
+
+## v2.0.5 (2023-10-10)
+
+### Chore
+
+* chore(release): v2.0.5 ([`1c01169`](https://github.com/ELC/SemanticReleasePoC/commit/1c01169ce302d9bb7fad192d13acaf6ecd7934a8))
 
 ### Fix
 
