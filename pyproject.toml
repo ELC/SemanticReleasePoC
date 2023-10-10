@@ -15,7 +15,7 @@ dynamic = ['version']
 [tool.setuptools-pipfile]
 
 [tool.semantic_release]
-commit_message = "chore(release): bump version to v{version} and update changelog"
+commit_message = "chore(release): bump version and update changelog"
 version_source = "tag"
 version_variables = [
     "my_app/__init__.py:__version__",
@@ -24,7 +24,7 @@ version_variables = [
 [tool.semantic_release.changelog]
 changelog_file = "CHANGELOG.md"
 exclude_commit_patterns = [
-    "chore(release): bump version to v{version} and update changelog"
+    "chore(release): bump version and update changelog"
 ]
 
 [tool.semantic_release.commit_parser_options]
