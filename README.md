@@ -13,7 +13,7 @@ This creates a changelog but does not commit. We manually add the modified files
 ```
 semantic-release -v version --no-vcs-release --no-commit
 git add --all
-git commit --amend --no-edit
+git commit -m "chore(release): bump version to v{version} and update changelog"
 git push --force
 ```
 
