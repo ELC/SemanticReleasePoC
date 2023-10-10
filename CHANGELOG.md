@@ -2,7 +2,18 @@
 
 
 
-## v2.0.3 (2023-10-09)
+## v2.0.4 (2023-10-09)
+
+### Fix
+
+* fix(versioning): add dynamic versioning ([`7221ec7`](https://github.com/ELC/SemanticReleasePoC/commit/7221ec74704c80fe4304109c1f2f4c3056f75b5c))
+
+
+## v2.0.3 (2023-10-10)
+
+### Chore
+
+* chore(release): v2.0.3 ([`43e0416`](https://github.com/ELC/SemanticReleasePoC/commit/43e0416438cee39c4d402b7347fe2ce603d64381))
 
 
 ## v2.0.2 (2023-10-10)
