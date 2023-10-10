@@ -10,6 +10,10 @@
 
 ### Documentation
 
+* docs: update README 2 ([`01122c7`](https://github.com/ELC/SemanticReleasePoC/commit/01122c7c2c66253006f8e35db28fe5949d10ac99))
+
+* docs: update changelog ([`aa99596`](https://github.com/ELC/SemanticReleasePoC/commit/aa99596158ad2f720fa24c140d2d77bc9b7e7a21))
+
 * docs: udpate readme ([`8f4a462`](https://github.com/ELC/SemanticReleasePoC/commit/8f4a4622862c53f1f75c63f6acd58e05223410b7))
 
 ### Fix
