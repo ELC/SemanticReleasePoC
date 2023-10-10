@@ -2,7 +2,18 @@
 
 
 
-## v2.0.4 (2023-10-09)
+## v2.0.5 (2023-10-09)
+
+### Fix
+
+* fix(version): use list for version_variable ([`a83ee70`](https://github.com/ELC/SemanticReleasePoC/commit/a83ee70c9cdbd604a6575fca02785ee3ef027c77))
+
+
+## v2.0.4 (2023-10-10)
+
+### Chore
+
+* chore(release): v2.0.4 ([`d29e708`](https://github.com/ELC/SemanticReleasePoC/commit/d29e708cb1f4f240d8b4ace5284116d47fdefc69))
 
 ### Fix
 
