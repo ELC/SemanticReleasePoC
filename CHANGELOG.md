@@ -10,7 +10,9 @@
 
 ### Documentation
 
-* docs: update command ([`dca909a`](https://github.com/ELC/SemanticReleasePoC/commit/dca909a18d3a54d86ec241a6b8b93d6491f92573))
+* docs(readme): update readme ([`5003197`](https://github.com/ELC/SemanticReleasePoC/commit/5003197644b461e934de6083fad465ed5dfad2f5))
+
+* docs: update command ([`fb0a303`](https://github.com/ELC/SemanticReleasePoC/commit/fb0a303ece21a0f9f087311257428beeda71bc85))
 
 * docs: update README 2 ([`8fb4aff`](https://github.com/ELC/SemanticReleasePoC/commit/8fb4aff83f686f186dfa2c39f7e56503812323eb))
 
@@ -19,6 +21,8 @@
 * docs: udpate readme ([`8f4a462`](https://github.com/ELC/SemanticReleasePoC/commit/8f4a4622862c53f1f75c63f6acd58e05223410b7))
 
 ### Fix
+
+* fix(version): update rules for changelog ([`0aada54`](https://github.com/ELC/SemanticReleasePoC/commit/0aada5420d11c0659192a52d0f0a5b6e40f6387c))
 
 * fix: update readme ([`245d7e7`](https://github.com/ELC/SemanticReleasePoC/commit/245d7e7cb50e6e9e8acc22c53a98786cee3403ee))
 
