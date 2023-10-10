@@ -2,7 +2,20 @@
 
 
 
-## v2.0.8 (2023-10-09)
+## v2.0.9 (2023-10-09)
+
+### Fix
+
+* fix(version): use full path in relative form not module form ([`6977306`](https://github.com/ELC/SemanticReleasePoC/commit/69773069e50a652f7c528bc9347a4e0c8373df6b))
+
+* fix(version): change key name in semantic version ([`01b1c54`](https://github.com/ELC/SemanticReleasePoC/commit/01b1c54f39bba9acb18a9bde14aa5e2baa30482d))
+
+
+## v2.0.8 (2023-10-10)
+
+### Chore
+
+* chore(release): v2.0.8 ([`ef981aa`](https://github.com/ELC/SemanticReleasePoC/commit/ef981aafbc266b57b14c766799626c6eea5c10dc))
 
 ### Fix
 
