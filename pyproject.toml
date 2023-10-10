@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools ~= 68.2.0", "wheel ~= 0.41.2", "setuptools-pipfile ~= 0.7.0"]
+build-backend = "setuptools.build_meta"
+
+
+[project]
+name = "my_app"
+authors = [
+    {name = "Ezequiel L. Castaño", email = "castanoezequielleonardo@gmail.com"},
+]
+description = "A dummy app to test semantic releases"
+readme = "README.md"
+dynamic = ["version"]
+
+[tool.setuptools-pipfile]
