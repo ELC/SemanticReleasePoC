@@ -19,7 +19,7 @@ branch = "main"
 commit_message = "chore(release): v{version}"
 commit_parser = "angular"
 logging_use_named_masks = false
-version_variable = "my_app/__init__.py:__version__"
+version_variable = ["my_app/__init__.py:__version__"]
 version_source = "commit"
 tag_format = "v{version}"
 
