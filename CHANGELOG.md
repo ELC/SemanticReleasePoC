@@ -2,7 +2,11 @@
 
 
 
-## v0.2.0 (2023-10-09)
+## v0.2.0 (2023-10-10)
+
+### Chore
+
+* chore(release): v0.2.0 ([`655a604`](https://github.com/ELC/SemanticReleasePoC/commit/655a604219d4dffac8507128cd4cbaa3a20f2918))
 
 ### Feature
 
