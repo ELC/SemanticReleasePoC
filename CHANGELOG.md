@@ -2,9 +2,14 @@
 
 
 
-## v2.0.10 (2023-10-09)
+## v2.0.11 (2023-10-09)
+
+
+## v2.0.10 (2023-10-10)
 
 ### Chore
+
+* chore(release): bump version to v2.0.10 ([`f7fabc6`](https://github.com/ELC/SemanticReleasePoC/commit/f7fabc617b74d7e976e7dd5870598509a7465a0f))
 
 * chore(release): v0.1.0 ([`24ef36f`](https://github.com/ELC/SemanticReleasePoC/commit/24ef36f337406ca24e25bb7ccedd421ce2472f1f))
 
