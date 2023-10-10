@@ -10,7 +10,9 @@
 
 ### Documentation
 
-* docs: update README 2 ([`01122c7`](https://github.com/ELC/SemanticReleasePoC/commit/01122c7c2c66253006f8e35db28fe5949d10ac99))
+* docs: update command ([`dca909a`](https://github.com/ELC/SemanticReleasePoC/commit/dca909a18d3a54d86ec241a6b8b93d6491f92573))
+
+* docs: update README 2 ([`8fb4aff`](https://github.com/ELC/SemanticReleasePoC/commit/8fb4aff83f686f186dfa2c39f7e56503812323eb))
 
 * docs: update changelog ([`aa99596`](https://github.com/ELC/SemanticReleasePoC/commit/aa99596158ad2f720fa24c140d2d77bc9b7e7a21))
 
