@@ -10,7 +10,7 @@ authors = [
 ]
 description = "A dummy app to test semantic releases"
 readme = "README.md"
-version = "2.0.1"
+version = "2.0.2"
 
 [tool.setuptools-pipfile]
 

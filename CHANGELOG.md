@@ -2,7 +2,18 @@
 
 
 
-## v2.0.1 (2023-10-09)
+## v2.0.2 (2023-10-09)
+
+### Fix
+
+* fix(version): add version variable in __init__.py ([`fa17f73`](https://github.com/ELC/SemanticReleasePoC/commit/fa17f73ee1e733168b7c15d8997886a14da4cc59))
+
+
+## v2.0.1 (2023-10-10)
+
+### Chore
+
+* chore(release): v2.0.1 ([`9de55d8`](https://github.com/ELC/SemanticReleasePoC/commit/9de55d861f758e9839b16865a6cdac04053e19df))
 
 
 ## v2.0.0 (2023-10-10)
