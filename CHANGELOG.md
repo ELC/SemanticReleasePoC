@@ -2,7 +2,18 @@
 
 
 
-## v0.1.0 (2023-10-09)
+## v0.2.0 (2023-10-09)
+
+### Feature
+
+* feat(test): add unit tests ([`b69a652`](https://github.com/ELC/SemanticReleasePoC/commit/b69a6529458021f945103d9fc581a907a0aa0161))
+
+
+## v0.1.0 (2023-10-10)
+
+### Chore
+
+* chore(release): v0.1.0 ([`c73c4aa`](https://github.com/ELC/SemanticReleasePoC/commit/c73c4aa3c597628fc74b05f4bd97aadc1e8d151c))
 
 ### Ci
 
