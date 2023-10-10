@@ -6,6 +6,8 @@
 
 ### Chore
 
+* chore(release): bump version and update changelog ([`0a32ae4`](https://github.com/ELC/SemanticReleasePoC/commit/0a32ae462cbd0b9ae7c23742e0adc722de6fb34e))
+
 * chore(release): bump version to v{version} and update changelog ([`d3200e9`](https://github.com/ELC/SemanticReleasePoC/commit/d3200e99433a81a0f167924ef5e7220f078c3604))
 
 * chore(version): update changelog and version ([`38e5666`](https://github.com/ELC/SemanticReleasePoC/commit/38e5666ea389e1a8caa8431dd4b2bff73843f041))
