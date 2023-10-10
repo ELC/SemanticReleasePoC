@@ -22,7 +22,7 @@ meaningless entries.
 ```
 semantic-release -v version --no-vcs-release --no-commit
 git add --all
-git commit -m "chore(release): bump version and update changelog"
+git commit -m "chore(release): bump version and update changelog [skip ci]"
 git push --force
 ```
 
