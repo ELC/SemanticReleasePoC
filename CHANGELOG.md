@@ -24,6 +24,8 @@
 
 ### Fix
 
+* fix: update commit message ([`d15fdb1`](https://github.com/ELC/SemanticReleasePoC/commit/d15fdb1f5ce3003dea8802484da05a5ab9bc1e3d))
+
 * fix(version): update rules for changelog ([`0aada54`](https://github.com/ELC/SemanticReleasePoC/commit/0aada5420d11c0659192a52d0f0a5b6e40f6387c))
 
 * fix: update readme ([`245d7e7`](https://github.com/ELC/SemanticReleasePoC/commit/245d7e7cb50e6e9e8acc22c53a98786cee3403ee))
