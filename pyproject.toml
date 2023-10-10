@@ -10,7 +10,7 @@ authors = [
 ]
 description = "A dummy app to test semantic releases"
 readme = "README.md"
-version = "2.0.0"
+version = "2.0.1"
 
 [tool.setuptools-pipfile]
 
@@ -19,7 +19,8 @@ branch = "main"
 commit_message = "chore(release): v{version}"
 commit_parser = "angular"
 logging_use_named_masks = false
-major_on_zero = true
+version_variable = "my_app/__init__.py:__version__"
+version_source = "commit"
 tag_format = "v{version}"
 version_toml = [
     "pyproject.toml:project.version"
