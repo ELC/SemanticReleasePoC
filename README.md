@@ -13,6 +13,7 @@ gir commit -m "chore(version): update version and changelog [skip ci]"
 git push
 ```
 
+
 On merge run:
 
 This creates a commit AND a tag
