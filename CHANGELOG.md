@@ -8,6 +8,14 @@
 
 * chore(version): update changelog and version ([`38e5666`](https://github.com/ELC/SemanticReleasePoC/commit/38e5666ea389e1a8caa8431dd4b2bff73843f041))
 
+### Documentation
+
+* docs: udpate readme ([`8f4a462`](https://github.com/ELC/SemanticReleasePoC/commit/8f4a4622862c53f1f75c63f6acd58e05223410b7))
+
+### Fix
+
+* fix: update readme ([`245d7e7`](https://github.com/ELC/SemanticReleasePoC/commit/245d7e7cb50e6e9e8acc22c53a98786cee3403ee))
+
 
 ## v2.0.13 (2023-10-10)
 
