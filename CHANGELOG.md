@@ -2,7 +2,18 @@
 
 
 
-## v2.0.7 (2023-10-09)
+## v2.0.8 (2023-10-09)
+
+### Fix
+
+* fix(version): correct matching version number ([`0eefe9b`](https://github.com/ELC/SemanticReleasePoC/commit/0eefe9b26ba43e5ad863fef3980058b29b3cd2b1))
+
+
+## v2.0.7 (2023-10-10)
+
+### Chore
+
+* chore(release): v2.0.7 ([`04a99a6`](https://github.com/ELC/SemanticReleasePoC/commit/04a99a63e0914295be2286f81391cfa3c63932f4))
 
 ### Fix
 
