@@ -2,7 +2,18 @@
 
 
 
-## v2.0.6 (2023-10-09)
+## v2.0.7 (2023-10-09)
+
+### Fix
+
+* fix(version): fix path for version_variable ([`163b072`](https://github.com/ELC/SemanticReleasePoC/commit/163b072dd50b71e947b3e02333da73f064f08023))
+
+
+## v2.0.6 (2023-10-10)
+
+### Chore
+
+* chore(release): v2.0.6 ([`b62448c`](https://github.com/ELC/SemanticReleasePoC/commit/b62448ca6c9cc0535c02851a0c590f32938ac879))
 
 ### Fix
 
