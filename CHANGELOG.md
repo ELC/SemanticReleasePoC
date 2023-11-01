@@ -2,9 +2,13 @@
 
 
 
-## v2.0.14 (2023-10-09)
+## v2.1.0 (2023-10-31)
 
 ### Documentation
+
+* docs: add skip ci to command in readme ([`4d847f9`](https://github.com/ELC/SemanticReleasePoC/commit/4d847f9e685c7eed947f8d386bbbc1600324f51f))
+
+* docs: update readme ([`3ffb8c4`](https://github.com/ELC/SemanticReleasePoC/commit/3ffb8c42f9063a2a5c79315f2e91f10d7ff06bbc))
 
 * docs(readme): update readme ([`5003197`](https://github.com/ELC/SemanticReleasePoC/commit/5003197644b461e934de6083fad465ed5dfad2f5))
 
@@ -15,6 +19,10 @@
 * docs: update changelog ([`aa99596`](https://github.com/ELC/SemanticReleasePoC/commit/aa99596158ad2f720fa24c140d2d77bc9b7e7a21))
 
 * docs: udpate readme ([`8f4a462`](https://github.com/ELC/SemanticReleasePoC/commit/8f4a4622862c53f1f75c63f6acd58e05223410b7))
+
+### Feature
+
+* feat: add tests ([`3ad5fe2`](https://github.com/ELC/SemanticReleasePoC/commit/3ad5fe242948134cd06685d5f0058d678a61e5ac))
 
 ### Fix
 
