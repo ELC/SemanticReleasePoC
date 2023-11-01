@@ -6,10 +6,12 @@ name = "pypi"
 [packages]
 
 [dev-packages]
+pytest = "*"
 
 [scripts]
 build = "pyproject-build"
 install_pre_commit = "pre-commit install --hook-type commit-msg"
+test = "pytest ./tests"
 
 [requires]
 python_version = "3.10"
